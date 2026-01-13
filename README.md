@@ -1,4 +1,12 @@
-## Hi there 👋
+## Call Me: Rafael E Moncayo Palate 👋
+
+- 💬 Nice to meet you! I am a sound technician and audiovisual systems engineer, currently pursuing a Master’s degree in Sound and Music Computing at UPF. On weekends, I work as an audiovisual technician at Casa Batlló.
+
+- ⚡ I am passionate about everything related to audio and music, with a strong interest in professional music production and mixing, as well as the development of DAW plugins and analog gear. You can find examples of my mixing and production work under the profile CallMeBW, available on all streaming platforms.
+
+- 🌱 I am eager to deepen my knowledge in DSP, MPC, and Machine Learning, with the goal of contributing new innovations to the technical field of mixing.
+
+- Pronouns: He/Him
 
 <!--
 **CallMeRafaelMP/CallMeRafaelMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
